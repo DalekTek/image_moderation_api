@@ -23,7 +23,7 @@ API принимает изображения и определяет налич
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/DalekTek/image_moderation_api
 cd image_moderation_api
 ```
 
